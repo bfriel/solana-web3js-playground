@@ -63,6 +63,7 @@ export default function App() {
         <div
           style={{
             background: "#22272e",
+            caretColor: "#fff",
             marginTop: "24px",
             marginRight: "16px",
           }}
